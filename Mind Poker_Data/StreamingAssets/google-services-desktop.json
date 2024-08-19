@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "388221542714",
+    "firebase_url": "https://mind-poker-default-rtdb.firebaseio.com",
+    "project_id": "mind-poker",
+    "storage_bucket": "mind-poker.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:388221542714:android:d0b60798d409feecf33003",
+        "android_client_info": {
+          "package_name": "com.poker.MindPoker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChytX8jDSaNIa6Zbsbcl7VbC8L-rbyvG8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
